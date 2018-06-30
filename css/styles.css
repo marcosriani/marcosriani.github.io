@@ -506,9 +506,7 @@ border-radius: 1%;
   color: #006989;
   opacity: 1;
   transform: scale(1.5);
-
 }
-
 @media only screen and (max-width: 367px) {
   /*    #contact{
     min-height:1100px;
@@ -533,6 +531,27 @@ border-radius: 1%;
 @media screen and (max-width: 600px) {
     .column {
         width: 100%;
+    }
+    .header{
+       height: 100%;
+    }
+    .header .heading {
+    margin-top: 10px;
+    }
+    .col-12 p {
+        margin-bottom: 5px;
+    }
+    .paragraph {
+    font-size: 15px;
+    }
+    .header .centerdevices {
+    margin: 20px 0;
+    }
+    .socialproof {
+    padding: 30px 0;
+    }
+    .whatisthis {
+    padding: 20px 0;
     }
     /* .column img {
       padding-left: 10px;
