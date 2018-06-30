@@ -381,7 +381,7 @@ button:hover {
 /* Center website */
 .feature3 {
   display: block;
-  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)) ,url('/img/coding.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)) ,url('/img/coding.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -556,6 +556,7 @@ border-radius: 1%;
     .row {
     padding: 3px;
     }
+    
 
     /* .column img {
       padding-left: 10px;
