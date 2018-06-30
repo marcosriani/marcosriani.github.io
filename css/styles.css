@@ -225,7 +225,7 @@ p.paragraph{
 /* Center website */
 .feature3 {
     display: block;
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)) ,url('/img/coding.jpeg');
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)) ,url('/img/coding.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
