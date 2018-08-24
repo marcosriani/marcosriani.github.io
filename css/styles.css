@@ -79,6 +79,9 @@ p{
 .img:hover {
     opacity: 1;
 }
+.projectImage {
+  width: 100%;
+}
 .col-12 p {
     margin-bottom: 10px;
 }
